@@ -1,6 +1,6 @@
 # Bruno Gadhy — Civil Engineer (PMP) transitioning to Software Development
 
-![avatar](https://stablediffusionweb.com/image/3083418-handsome-artsy-man-with-blonde-hair-and-green-eyes)
+
 
 Hi — I’m Bruno. I’m a civil engineer, PMP certified, currently transitioning into software development. This repository is my learning showcase: projects, notes, small tutorials, and practical demonstrations of what I’m building as I grow into a competent, reliable developer.
 
